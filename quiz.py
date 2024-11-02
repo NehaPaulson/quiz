@@ -19,6 +19,9 @@ def brain_quiz():
         "In which year did the Titanic sink?": {
             "options": ["A) 1905", "B) 1912", "C) 1915", "D) 1920"],
             "answer": "B"
+        "In which year did the Titanic sink?": {
+            "options": ["A) 1905", "B) 1912", "C) 1915", "D) 1920"],
+            "answer": "B"
         },
     }
 
